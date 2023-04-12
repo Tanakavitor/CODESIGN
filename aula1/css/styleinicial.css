@@ -1,0 +1,102 @@
+header {
+    display: flex;
+    position: relative;
+    border-bottom: 0.03rem solid black;
+    padding-bottom: 1rem;
+    padding: 1rem;
+}
+
+
+.menu {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin-left: 0;
+}
+
+
+h1 {
+    display: flex;
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: #905555;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+h2 {
+        display: flex;
+        font-size: 3.5rem;
+        font-weight: 700;
+        color: turquoise;
+        text-align: center;
+        margin: 0;
+        padding: 0;
+   
+    
+}
+main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0.5rem;
+    font-size: 1.6rem;
+}
+.linha {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 0.5rem;
+    padding: 0.5rem;
+    gap: 0.7rem;
+    
+}
+.coluna {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0.5rem;
+    padding: 0.5rem;
+
+}
+.box{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0.4rem;
+    padding: 1rem;
+    border: 0.1rem solid black;
+    border-radius: 0.3rem;
+    width: 4rem;
+    height: 2rem;
+    background-color: aquamarine;
+}
+img {
+    display: flex;
+    width: 20%;
+    height: 20%;
+    margin: 0;
+    padding: 0;
+}
+.subtitulo{
+    font-size: 2rem;
+    padding: 1rem;
+}
+footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 1rem;
+    padding: 1rem;
+    border-top: 0.03rem solid black;
+    padding-top: 1rem;
+    padding: 1rem;
+    gap : 4rem;
+    font-size: 1.2rem;
+}
