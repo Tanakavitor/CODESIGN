@@ -1,0 +1,49 @@
+h1 {
+    display: flex;
+    font-size: 3.5rem;
+    color: #09ebef;
+    text-align: center;
+    margin-bottom: 1rem;
+    padding: 1rem;
+    margin: 1rem;
+    border-bottom: 0.3rem solid black;
+}
+main{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    margin: 3.5rem;
+    padding: 3.5rem;
+    gap: 4rem;
+}
+video{
+   display: flex;
+    width: 70%;
+    height: 50%;
+    
+}
+h2 {
+    display: flex;
+    font-size: 2rem;
+    color: #09ebef;
+    text-align: center;
+    margin-bottom: 1rem;
+    padding: 1rem;
+    margin: 1rem;
+}
+footer {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 4rem auto;
+    padding: 1rem auto;
+    border-top: 0.3rem solid black;
+    padding-top: 2rem auto;
+    padding: 5rem auto;
+    gap : 4rem;
+    font-size: 3.2rem;
+
+}
