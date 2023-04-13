@@ -100,3 +100,14 @@ footer {
     gap : 4rem;
     font-size: 1.2rem;
 }
+
+.progresso-barra {
+    width: 30%;
+    background-color: #ddd;
+  }
+  
+  .progresso {
+    height: 20px;
+    background-color: #4CAF50;
+    width: 0%;
+  }
