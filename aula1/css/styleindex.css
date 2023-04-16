@@ -1,3 +1,6 @@
+body{
+    font-family: 'Cabin', sans-serif;
+  }
 header {
     display: flex;
     flex-direction: row;
@@ -8,7 +11,7 @@ header {
     height: 3rem;
     margin: 2.5rem auto;
     padding: 2.5rem;
-}
+    font-family: 'Cabin', sans-serif;}
 
 h1 {
     font-size: 3.5rem;
@@ -18,6 +21,7 @@ h1 {
     margin: 0;
     padding: 0;
     white-space: nowrap;
+    font-family: 'Cabin', sans-serif;
 }
 main {
     display: flex;
@@ -29,4 +33,5 @@ main {
     height: 100%;
     margin: 2rem auto;
     padding: 2rem auto ;
+    font-family: 'Cabin', sans-serif;
 }

@@ -1,9 +1,13 @@
+body{
+    font-family: 'Cabin', sans-serif;
+  }
 header {
     display: flex;
     position: relative;
     border-bottom: 0.03rem solid black;
     padding-bottom: 1rem;
     padding: 1rem;
+    font-family: 'Cabin', sans-serif;
 }
 
 
@@ -12,6 +16,7 @@ header {
     flex-direction: column;
     justify-content: flex-start;
     margin-left: 0;
+    font-family: 'Cabin', sans-serif;
 }
 
 
@@ -23,6 +28,7 @@ h1 {
     text-align: center;
     margin: 0;
     padding: 0;
+    font-family: 'Cabin', sans-serif;
 }
 h2 {
         display: flex;
@@ -32,6 +38,7 @@ h2 {
         text-align: center;
         margin: 0;
         padding: 0;
+        font-family: 'Cabin', sans-serif;
    
     
 }
@@ -43,6 +50,7 @@ main{
     margin: 0;
     padding: 0.5rem;
     font-size: 1.6rem;
+    font-family: 'Cabin', sans-serif;
 }
 .linha {
     display: flex;
@@ -99,6 +107,7 @@ footer {
     padding: 1rem;
     gap : 4rem;
     font-size: 1.2rem;
+    font-family: 'Cabin', sans-serif;
 }
 
 .progresso-barra {

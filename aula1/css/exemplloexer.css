@@ -1,3 +1,6 @@
+body{
+    font-family: 'Cabin', sans-serif;
+  }
 h1 {
     display: flex;
     font-size: 3.5rem;
@@ -7,6 +10,8 @@ h1 {
     padding: 1rem;
     margin: 1rem;
     border-bottom: 0.3rem solid black;
+    font-family: 'Cabin', sans-serif;
+
 }
 main{
     display: flex;
@@ -16,6 +21,7 @@ main{
     margin: 3.5rem;
     padding: 3.5rem;
     gap: 4rem;
+    font-family: 'Cabin', sans-serif;
 }
 video{
    display: flex;
@@ -31,6 +37,7 @@ h2 {
     margin-bottom: 1rem;
     padding: 1rem;
     margin: 1rem;
+    font-family: 'Cabin', sans-serif;
 }
 footer {
 
@@ -45,5 +52,6 @@ footer {
     padding: 5rem auto;
     gap : 4rem;
     font-size: 3.2rem;
+    font-family: 'Cabin', sans-serif;
 
 }
