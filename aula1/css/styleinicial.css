@@ -1,5 +1,7 @@
 body{
     font-family: 'Cabin', sans-serif;
+    background-color: #B4DEFA;
+    
   }
 header {
     display: flex;
@@ -8,6 +10,7 @@ header {
     padding-bottom: 1rem;
     padding: 1rem;
     font-family: 'Cabin', sans-serif;
+    background-color: #FF890A;
 }
 
 
@@ -24,7 +27,7 @@ h1 {
     display: flex;
     font-size: 1.5rem;
     font-weight: 700;
-    color: #905555;
+    color: black;
     text-align: center;
     margin: 0;
     padding: 0;
@@ -34,7 +37,7 @@ h2 {
         display: flex;
         font-size: 3.5rem;
         font-weight: 700;
-        color: turquoise;
+        color: black;
         text-align: center;
         margin: 0;
         padding: 0;
@@ -51,6 +54,7 @@ main{
     padding: 0.5rem;
     font-size: 1.6rem;
     font-family: 'Cabin', sans-serif;
+    background-color: #0994F1;
 }
 .linha {
     display: flex;
@@ -82,7 +86,7 @@ main{
     border-radius: 0.3rem;
     width: 4rem;
     height: 2rem;
-    background-color: aquamarine;
+    background-color: #F7C894;
 }
 img {
     display: flex;
@@ -102,7 +106,7 @@ footer {
     align-items: center;
     margin: 1rem;
     padding: 1rem;
-    border-top: 0.03rem solid black;
+    border-top: 0.03rem solid #6AC4FF;
     padding-top: 1rem;
     padding: 1rem;
     gap : 4rem;
@@ -117,6 +121,10 @@ footer {
   
   .progresso {
     height: 20px;
-    background-color: #4CAF50;
     width: 0%;
   }
+
+  a {
+    text-decoration: none;
+    color: inherit;
+}

@@ -1,15 +1,25 @@
 body{
     font-family: 'Cabin', sans-serif;
+    background-color: #B4DEFA;
   }
+
+header{
+    background-color: #FF890A;
+}
+
+main{
+    background-color: #0994F1;
+}
 h1 {
     font-size: 3.5rem;
     font-weight: 700;
-    color: #09ebef;
+    color: black;
     text-align: center;
     margin-bottom: 1rem;
     padding: 0;
     white-space: nowrap;
-    border-bottom: 0.3rem solid black;
+    border-bottom: 0.3rem solid #FF890A;
+    ;
 }
 
 ul{
@@ -26,13 +36,13 @@ ul{
 }
 
 li {
-    border-bottom: 0.1rem solid black;
+    border-bottom: 0.1rem solid #6AC4FF;
 }
 
 h2 {
     font-size: 1.5rem;
     font-weight: 700;
-    color: #09ebef;
+    color: black;
     margin-bottom: 0.5rem;
     margin-top: 1rem;
     padding: 0;
@@ -47,10 +57,15 @@ h2 {
     align-items: center;
     margin: 3rem auto;
     padding: 1rem auto;
-    border-top: 0.3rem solid black;
+    border-top: 0.3rem solid #6AC4FF;
     padding-top: 2rem auto;
     padding: 5rem auto;
     gap : 4rem;
     font-size: 1.2rem;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
 }
 
