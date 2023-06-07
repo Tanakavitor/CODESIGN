@@ -5,6 +5,9 @@ body{
 header{
     display: flex;
     background-color: #FF890A;
+    padding: 1.11em;
+
+
 }
 
 main {
